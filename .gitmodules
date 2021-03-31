@@ -1,0 +1,6 @@
+[submodule "Statistics Analysis/Lending-Club"]
+	path = Statistics Analysis/Lending-Club
+	url = https://github.com/ShanmukhaSaiPrakashUriti/Lending-Club.git
+[submodule "Machine Learning/TelecomChurn"]
+	path = Machine Learning/TelecomChurn
+	url = https://github.com/ShanmukhaSaiPrakashUriti/TelecomChurn.git
